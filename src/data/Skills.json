@@ -1,0 +1,138 @@
+[
+    {
+        "name": "ReactJS",
+        "Category": "FullStack",
+        "Segment": "Frontend",
+        "Level": 90,
+        "Logo": "https://reactjs.org/logo-og.png",
+        "Link": "https://reactjs.org/"
+    },
+    {
+        "name": "TailwindCSS",
+        "Category": "FullStack",
+        "Segment": "Frontend",
+        "Level": 90,
+        "Logo": "https://tailwindcss.com/_next/static/media/social-card-large.0f61b21b.jpg",
+        "Link": "https://tailwindcss.com/"
+    },
+    {
+        "name": "NextJS",
+        "Category": "FullStack",
+        "Segment": "Frontend",
+        "Level": 50,
+        "Logo": "https://nextjs.org/static/favicon/favicon-32x32.png",
+        "Link": "https://nextjs.org/"
+    },
+    {
+        "name": "ReduxJS",
+        "Category": "FullStack",
+        "Segment": "Frontend",
+        "Level": 80,
+        "Logo": "https://redux.js.org/img/redux-logo-landscape.png",
+        "Link": "https://redux.js.org/"
+    },
+    {
+        "name": "Framer-Motion",
+        "Category": "FullStack",
+        "Segment": "Frontend",
+        "Level": 85,
+        "Logo": "https://www.framer.com/motion/assets/social-preview.png",
+        "Link": "https://www.framer.com/motion/"
+    },
+    {
+        "name": "React-Native",
+        "Category": "Mobile",
+        "Segment": "Frontend",
+        "Level": 40,
+        "Logo": "https://reactnative.dev/img/header_logo.svg",
+        "Link": "https://reactnative.dev/"
+    },
+    {
+        "name": "NodeJS && ExpressJS",
+        "Category": "FullStack",
+        "Segment": "Backend",
+        "Level": 90,
+        "Logo": "https://nodejs.org/static/images/logo.svg",
+        "Link": "https://nodejs.org/"
+    },
+    {
+        "name": "Android Studio",
+        "Category": "Mobile",
+        "Segment": "Frontend",
+        "Level": 80,
+        "Logo": "https://developer.android.com/studio/images/studio-icon-2020.png",
+        "Link": "https://developer.android.com/studio"
+    },
+    {
+        "name": "ElectronJS",
+        "Category": "Desktop",
+        "Segment": "Frontend",
+        "Level": 87,
+        "Logo": "https://electronjs.org/images/electron-logo.svg",
+        "Link": "https://www.electronjs.org/"
+    },
+    {
+        "name": "Postgres && MySQL && SQLite",
+        "Category": "FullStack",
+        "Segment": "Backend",
+        "Level": 90,
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png",
+        "Link": "https://www.postgresql.org/"
+    },
+    {
+        "name": "Prisma",
+        "Category": "FullStack",
+        "Segment": "Backend",
+        "Level": 90,
+        "Logo": "https://www.prisma.io/images/favicon-32x32.png",
+        "Link": "https://www.prisma.io/"
+    },
+    {
+        "name": "Django && Flask",
+        "Category": "FullStack",
+        "Segment": "Backend",
+        "Level": 66,
+        "Logo": "https://static.djangoproject.com/img/logos/django-logo-negative.png",
+        "Link": "https://www.djangoproject.com/"
+    },
+    {
+        "name": "Recharts && ApexChart",
+        "Category": "Analytics",
+        "Segment": "Graph",
+        "Level": 90,
+        "Logo": "https://recharts.org/images/favicon.png",
+        "Link": "https://recharts.org/"
+    },
+    {
+        "name": "RapidMiner",
+        "Category": "Analytics",
+        "Segment": "Machine Learning",
+        "Level": 90,
+        "Logo": "https://www.rapidminer.com/wp-content/uploads/2020/09/favicon.png",
+        "Link": "https://rapidminer.com/"
+    },
+    {
+        "name": "Pandas",
+        "Category": "Analytics",
+        "Segment": "Data Pre-processing",
+        "Level": 90,
+        "Logo": "https://pandas.pydata.org/static/img/pandas.svg",
+        "Link": "https://pandas.pydata.org/"
+    },
+    {
+        "name": "FabricJS",
+        "Category": "FullStack",
+        "Segment": "2D Canvas",
+        "Level": 90,
+        "Logo": "https://pandas.pydata.org/static/img/pandas.svg",
+        "Link": "https://pandas.pydata.org/"
+    },
+    {
+        "name": "BabylonJS",
+        "Category": "FullStack",
+        "Segment": "3D Programming",
+        "Level": 40,
+        "Logo": "https://pandas.pydata.org/static/img/pandas.svg",
+        "Link": "https://pandas.pydata.org/"
+    }
+]

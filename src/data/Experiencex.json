@@ -1,0 +1,44 @@
+[
+    {
+        "Position":"FullStack Developer",
+        "Company":"CipherByte Technologies",
+        "Location":"India",
+        "Type":"Internship",
+        "Date":"2024-2024"
+    },
+    {
+        "Position":"OGTa Team Leader",
+        "Company":"AIESEC",
+        "Location":"Ifrane",
+        "Type":"Part-Time",
+        "Date":"2024-2024"
+    },
+    {
+        "Position":"Software Developer",
+        "Company":"NeoCedrus",
+        "Location":"Ifrane",
+        "Type":"Part-Time",
+        "Date":"2023-present"
+    },
+    {
+        "Position":"Full Stack Engineer",
+        "Company":"Green Energy Transition",
+        "Location":"Fez",
+        "Type":"Internship",
+        "Date":"2024-2024"
+    },
+    {
+        "Position":"Photography Contributer",
+        "Company":"Getty Images",
+        "Location":"USA",
+        "Type":"Self-Employed",
+        "Date":"2020-2024"
+    },
+    {
+        "Position":"Graphic Designer",
+        "Company":"Fievrr / Freelancer / UpWork",
+        "Location":"USA",
+        "Type":"Freelance",
+        "Date":"2020-2024"
+    }
+]

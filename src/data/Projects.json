@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Xpress",
+        "description": "Feedback-based platform made for Al Akhawayn University Students to give their opinion about the services offered by the university",
+        "Link": "https://express.aui.ma/",
+        "Pic":"src/assets/xpressLogo.png"
+    },
+    {
+        "Name": "Design Mall",
+        "description": "Online Manufacturing Platform that allows users to engineer & manufacture products, using AI & 3D based canvas, from scratch, allowing them to transfer their ideas into a real tangible item",
+        "Link": "https://designmall.vercel.app/",
+        "Pic":"src/assets/DM.png"
+    },
+    {
+        "Name": "InfoLab",
+        "description": "Online teaching platform, where students can take quizzes on preferred field, posted by teachers, in order to foster their skills",
+        "Link": "Waiting Deployment...",
+        "Pic":"src/assets/infoLab.png"
+    },
+    {
+        "Name":"MediTrack",
+        "description":"Inventory Desktop software that helps local pharmacies manages medicines, allowing them to register, remove a drug, and get notified if a drug expires",
+        "Link":"Desktop App, Already Deployed",
+        "Pic":"src/assets/Logo.png"
+    },
+    {
+        "Name": "Science Book",
+        "description": "Mobile Q&A game, that asks users questions, and gain points based on the answer",
+        "Link": "Waiting Deployment...",
+        "Pic":"src/assets/Logo.png"
+    },
+    {
+        "Name": "AniGuess",
+        "description": "Mobile Game that guesses the animal you have in mind, it uses Tree Data Structure to feed more informations the user provides in order to come up with a conclusion",
+        "Link": "Waiting Deployment...",
+        "Pic":"src/assets/Logo.png"
+    },
+    {
+        "Name":"Isnad PolyService",
+        "description":"Website made for Isnad Polyservice Company in Settat, it digitalize the workflow of the company by offering the ability to request services online, using 'cahier de charge' instead of face to face",
+        "Link":"Website has been offered to the company",
+        "Pic":"src/assets/Isnad.png"
+    },
+    {
+        "Name":"TeCom AUI",
+        "description":"Website made for TeCom Club at Al Akhawayn University that showcases the club's events and achievements. In addition, the ability to the board members to register & monitor data of the club, including members, events,...",
+        "Link":"Waiting Deployment...",
+        "Pic":"src/assets/Club_Logo.png"
+    },
+    {
+        "Name":"DB Log Dashboard",
+        "description":"Dashboard that displays graphs containing data coming from IoT devices",
+        "Link":"Internship Project",
+        "Pic":"src/assets/Logo.png"
+    },
+    {
+        "Name":"EventPlanner360",
+        "description":"Platform enabling users to plan, organize, and oversee diverse events like conferences, weddings, and parties",
+        "Link":"Internship Project",
+        "Pic":"src/assets/Logo.png"
+    }
+]
